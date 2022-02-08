@@ -1,4 +1,4 @@
-# react_native_task
+# mobile_task
 Task 1: Oct 18 2021
 1. Initialize an app. Connect the app with splash screen and icon. Configure app to use any one of the custom font globally.
 
